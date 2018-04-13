@@ -10,3 +10,5 @@ public class NigrumApiApplication {
 		SpringApplication.run(NigrumApiApplication.class, args);
 	}
 }
+
+test
